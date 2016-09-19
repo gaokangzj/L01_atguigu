@@ -4,5 +4,6 @@
     <string name="app_name">L01_atguigu</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_secode">SecodeActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
 
 </resources>

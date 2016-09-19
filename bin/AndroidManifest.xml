@@ -26,6 +26,10 @@
             android:name=".SecodeActivity"
             android:label="@string/title_activity_secode" >
         </activity>
+        <activity
+            android:name=".ThirdActivity"
+            android:label="@string/title_activity_third" >
+        </activity>
     </application>
 
 </manifest>
